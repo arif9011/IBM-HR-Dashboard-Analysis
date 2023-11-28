@@ -11,6 +11,10 @@ This is an interactive HR analytics dashboard created using Power BI. The dashbo
 •	Card visuals displaying key metrics such as total employees, attrition count, attrition rate, active employees, female count, male count and average age.
 •	Detailed breakdowns using slicers to filter data based on gender, marital status.
 
+# Dashboard Preview
+![image](https://github.com/arif9011/Project-Portfolio/assets/115591569/1e283a25-f136-4474-8fe5-51ca2d36c931)
+
+
 
 
 
