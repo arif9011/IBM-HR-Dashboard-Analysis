@@ -1,5 +1,5 @@
 
-# Dashboard Analysis
+# IBM HR Dashboard Analysis
 # Project Description 
 This is an interactive HR analytics dashboard created using Power BI. The dashboard leverages data from an HR dataset provided by IBM on Kaggle. The dashboard focuses on exploring popular HR metrics and key performance indicators (KPIs), shedding light on various aspects such as attrition rates, job satisfaction ratings, and demographic insights.
 # Dashboard Highlights
